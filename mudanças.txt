@@ -1,0 +1,15 @@
+separar as metricas dos indicadores por tipos
+
+----LOGISTICA----
+LINC - RECEBIMENTO - EMBALAGEM - LOGISTICA - TRANSPORTE - PESSOAS
+
+
+----PRODUÇÃO----
+SENSOR - VOLVO - FALSO REMAN - CR - CABEÇOTE REMAN
+
+
+PRODUÇÃO usa STK PAI/FILHO, CAP/SALDO, as demais não
+
+as metricas se tornarão unicas, e não genericas
+
+iniciar pelo transporte e ir finalizando area por area, até tudo ser automatizado, assim fica mais facil depois de mexer também

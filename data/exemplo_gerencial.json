@@ -1,0 +1,335 @@
+{
+  "period": "2026-10",
+  "reference_date": "2026-10-05",
+  "source": "EXEMPLO da planilha fornecida (NÃO é dado ao vivo)",
+  "areas": {
+    "linc": {
+      "dia": {
+        "primary": 1.0
+      },
+      "capacidade": {
+        "primary": null
+      },
+      "mes": {
+        "primary": 32.4
+      },
+      "stk_pai": {
+        "primary": null
+      },
+      "fcst": {
+        "primary": 33.0
+      },
+      "stk_filho": {
+        "primary": null
+      },
+      "percentual": {
+        "primary": 0.9818181818181818
+      },
+      "falta": {
+        "primary": 0.018181818181818188
+      }
+    },
+    "logistica": {
+      "dia": {
+        "primary": 0.25
+      },
+      "capacidade": {
+        "primary": null
+      },
+      "mes": {
+        "secondary": 29.85
+      },
+      "stk_pai": {
+        "primary": null
+      },
+      "fcst": {
+        "secondary": 31.0
+      },
+      "stk_filho": {
+        "primary": null
+      },
+      "percentual": {
+        "secondary": 0.9629032258064517
+      },
+      "falta": {
+        "secondary": 0.03709677419354829
+      }
+    },
+    "transporte": {
+      "dia": {
+        "primary": 10.9
+      },
+      "capacidade": {
+        "primary": null
+      },
+      "mes": {
+        "secondary": 23.8
+      },
+      "stk_pai": {
+        "primary": null
+      },
+      "fcst": {
+        "secondary": 33.0
+      },
+      "stk_filho": {
+        "primary": null
+      },
+      "percentual": {
+        "secondary": 0.7212121212121212
+      },
+      "falta": {
+        "secondary": 0.2787878787878788
+      }
+    },
+    "recebimento": {
+      "dia": {
+        "primary": 42000.0
+      },
+      "capacidade": {
+        "primary": 0.02
+      },
+      "mes": {
+        "secondary": 122000.0
+      },
+      "stk_pai": {
+        "primary": null
+      },
+      "fcst": {
+        "secondary": 600000.0
+      },
+      "stk_filho": {
+        "primary": null
+      },
+      "percentual": {
+        "secondary": 0.20333333333333334
+      },
+      "falta": {
+        "secondary": 0.7966666666666666
+      }
+    },
+    "embalagem": {
+      "dia": {
+        "primary": 1096.0
+      },
+      "capacidade": {
+        "primary": null
+      },
+      "mes": {
+        "secondary": 3644.0
+      },
+      "stk_pai": {
+        "primary": null
+      },
+      "fcst": {
+        "secondary": 42000.0
+      },
+      "stk_filho": {
+        "primary": null
+      },
+      "percentual": {
+        "secondary": 0.08676190476190476
+      },
+      "falta": {
+        "secondary": 0.9132380952380952
+      }
+    },
+    "sensor": {
+      "dia": {
+        "primary": null
+      },
+      "capacidade": {
+        "primary": null
+      },
+      "mes": {
+        "secondary": null
+      },
+      "stk_pai": {
+        "primary": 10552.0
+      },
+      "fcst": {
+        "secondary": null
+      },
+      "stk_filho": {
+        "primary": null
+      },
+      "percentual": {
+        "secondary": null
+      },
+      "falta": {
+        "secondary": null
+      }
+    },
+    "eui": {
+      "dia": {
+        "primary": null
+      },
+      "capacidade": {
+        "primary": 100.0
+      },
+      "mes": {
+        "secondary": null
+      },
+      "stk_pai": {
+        "primary": 1600.0
+      },
+      "fcst": {
+        "secondary": null
+      },
+      "stk_filho": {
+        "primary": 2000.0
+      },
+      "percentual": {
+        "secondary": null
+      },
+      "falta": {
+        "secondary": null
+      }
+    },
+    "reman_mbb": {
+      "dia": {
+        "primary": null
+      },
+      "capacidade": {
+        "primary": 500.0
+      },
+      "mes": {
+        "secondary": null
+      },
+      "stk_pai": {
+        "primary": null
+      },
+      "fcst": {
+        "secondary": null
+      },
+      "stk_filho": {
+        "primary": null
+      },
+      "percentual": {
+        "secondary": null
+      },
+      "falta": {
+        "secondary": null
+      }
+    },
+    "cr_iam": {
+      "dia": {
+        "primary": null
+      },
+      "capacidade": {
+        "primary": 60.0
+      },
+      "mes": {
+        "secondary": null
+      },
+      "stk_pai": {
+        "primary": 0.0
+      },
+      "fcst": {
+        "secondary": null
+      },
+      "stk_filho": {
+        "primary": 500.0
+      },
+      "percentual": {
+        "secondary": null
+      },
+      "falta": {
+        "secondary": null
+      }
+    },
+    "cabecote": {
+      "dia": {
+        "primary": 137.0
+      },
+      "capacidade": {
+        "primary": null
+      },
+      "mes": {
+        "secondary": 528.0
+      },
+      "stk_pai": {
+        "primary": null
+      },
+      "fcst": {
+        "secondary": 665.0
+      },
+      "stk_filho": {
+        "primary": null
+      },
+      "percentual": {
+        "secondary": 0.793984962406015
+      },
+      "falta": {
+        "secondary": 0.20601503759398498
+      }
+    },
+    "pessoas": {
+      "dia": {
+        "primary": 48.0
+      },
+      "capacidade": {
+        "primary": null
+      },
+      "mes": {
+        "secondary": 49.0
+      },
+      "stk_pai": {
+        "primary": null
+      },
+      "fcst": {
+        "secondary": 50.0
+      },
+      "stk_filho": {
+        "primary": null
+      },
+      "percentual": {
+        "secondary": 0.98
+      },
+      "falta": {
+        "secondary": 0.020000000000000018
+      }
+    },
+    "garantia": {
+      "dia": {
+        "primary": 0.239
+      },
+      "capacidade": {
+        "primary": 0.05620884289746002
+      },
+      "mes": {
+        "secondary": 4.013
+      },
+      "stk_pai": {
+        "primary": 0.94379115710254
+      },
+      "fcst": {
+        "secondary": 4.252
+      },
+      "stk_filho": {
+        "primary": null
+      },
+      "percentual": {
+        "secondary": 0.94379115710254
+      },
+      "falta": {
+        "secondary": 0.056208842897459976
+      }
+    }
+  },
+  "errors": {
+    "sensor": {
+      "percentual": "N17: #DIV/0!"
+    },
+    "eui": {
+      "percentual": "P17: #DIV/0!"
+    },
+    "reman_mbb": {
+      "percentual": "R17: #DIV/0!"
+    },
+    "cr_iam": {
+      "percentual": "T17: #DIV/0!"
+    }
+  },
+  "file_path": "",
+  "imported_at": "2026-10-05T00:00:00"
+}
